@@ -1,1 +1,1 @@
-return "500"
+return [{"playerID":55,"money":436,"bounty":1}]
