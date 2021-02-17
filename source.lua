@@ -1,11 +1,11 @@
 {
 "PlayLists": ["test1", "test2", "test3", "💙BTS💙", "Sub Urban"],
 
-  "test1": [{"Name": "Song1", "Id": "nil", "Speed": 1}, {"Name": "Song2", "Id": "nil", "Speed": 1}, {"Name": "Song3", "Id": "nil", "Speed": 1}],
+  "test1": [{"Name": "Song1", "Id": nil, "Speed": 1}, {"Name": "Song2", "Id": nil, "Speed": 1}, {"Name": "Song3", "Id": nil, "Speed": 1}],
 
-  "test2": [{"Name": "Song1", "Id": "nil", "Speed": 1}, {"Name": "Song2", "Id": "nil", "Speed": 1}, {"Name": "Song3", "Id": "nil", "Speed": 1}],
+  "test2": [{"Name": "Song1", "Id": nil, "Speed": 1}, {"Name": "Song2", "Id": nil, "Speed": 1}, {"Name": "Song3", "Id": nil, "Speed": 1}],
 
-  "test3": [{"Name": "Song1", "Id": "nil", "Speed": 1}, {"Name": "Song2", "Id": "nil", "Speed": 1}, {"Name": "Song3", "Id": "nil", "Speed": 1}],
+  "test3": [{"Name": "Song1", "Id": nil, "Speed": 1}, {"Name": "Song2", "Id": nil, "Speed": 1}, {"Name": "Song3", "Id": nil, "Speed": 1}],
 
   "💙BTS💙": [
   {"Name": "The Truth Untold", "Id": "2554102535", "Speed": 0.9}, 
