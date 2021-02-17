@@ -15,7 +15,7 @@
   ],
   
   "Sub Urban": [
-  {"Name": "Cradles", "Id": "4738376177", "Speed": 1.15}, 
+  {"Name": "Cradles", "Id": "4738376177", "Speed": 1.1}, 
   {"Name": "Broken", "Id": "5091658916", "Speed": 0.9}, 
   {"Name": "Cirque", "Id": "5009777080", "Speed": 1.1}
   ]
